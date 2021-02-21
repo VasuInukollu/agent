@@ -97,10 +97,10 @@ Apache-2.0
 @ngneat/until-destroy
 MIT
 
-@xema/queue-monitor-panel
+@xema/queue-monitor-table-panel
 UNLICENSED
 
-@xema/team-monitor-panel
+@xema/team-monitor-table-panel
 UNLICENSED
 
 axios
