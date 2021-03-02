@@ -100,6 +100,9 @@ MIT
 @xema/queue-monitor-panel
 UNLICENSED
 
+@xema/queue-monitor-table-panel
+UNLICENSED
+
 @xema/team-monitor-table-panel
 UNLICENSED
 
